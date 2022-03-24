@@ -7,7 +7,9 @@ var RandomPoem;
     console.log(subject);
     console.log(verb);
     console.log(object);
-    for (; ; )
-        ;
+    for (let i = subject.length; i >= 1; i--) {
+        console.log(i);
+    }
+    ;
 })(RandomPoem || (RandomPoem = {}));
 //# sourceMappingURL=RandomPoem.js.map
