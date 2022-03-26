@@ -1,7 +1,9 @@
 "use strict";
 var Boxes;
 (function (Boxes) {
-    debugger;
+    // Penelope Vogel
+    // A1.2 Boxes
+    // 26.03.2022
     let n = 5;
     let color;
     let x = 0;

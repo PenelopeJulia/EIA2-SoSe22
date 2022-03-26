@@ -1,6 +1,8 @@
 namespace Boxes {
 
-    debugger;
+    // Penelope Vogel
+    // A1.2 Boxes
+    // 26.03.2022
     let n: number = 5;
     let color: string;
     let x: number = 0;

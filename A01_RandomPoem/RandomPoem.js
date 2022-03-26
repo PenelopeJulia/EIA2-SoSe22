@@ -2,6 +2,7 @@
 var RandomPoem;
 (function (RandomPoem) {
     // Penelope Julia Vogel
+    // A1: Random Poem
     // 26.03.2022
     // Arrays with subjects, verb und object
     let subject = ["Rick", "Morty", "Summer", "Beth", "Jerry", "Meeseeks", "Poopy Butthole", "Birdperson"];
