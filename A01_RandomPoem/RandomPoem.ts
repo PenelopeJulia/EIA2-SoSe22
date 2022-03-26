@@ -1,5 +1,8 @@
 namespace RandomPoem {
 
+    // Penelope Julia Vogel
+    // 26.03.2022
+
     // Arrays with subjects, verb und object
     let subject: string[] = ["Rick", "Morty", "Summer", "Beth", "Jerry", "Meeseeks", "Poopy Butthole", "Birdperson"];
     let verb: string[] = [" eats", " curses", " laughs at", " watches", " travels to", " destroys", " loves", " flies to"];
